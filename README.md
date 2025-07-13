@@ -30,14 +30,20 @@
 
 ## 📂 Featured Projects
 
-### 1. [CiLEL AIアシスタント](https://github.com/leadlea/cilel-assistant)  
+### 1. [CiLEL AIアシスタント](https://github.com/ChickenTamago/assistant)  
 RAG基盤で中国輸入代行のよくある問い合わせを即回答。Step Functions でフロー管理。
 
-### 2. [予知夢 (Yochimu)](https://github.com/leadlea/yochimu-model)  
-時系列データ×DLでECユーザー行動を予測するモデル。SageMaker Clarify でバイアス検証済み。
+### 2. [抜推AI (営業パフォーマンス)](https://github.com/leadlea/smbc)  
+営業担当をランキングし、データドリブンな洞察を提示。
 
-### 3. [感響AI™ PoC](https://github.com/leadlea/kankyō-ai-poc)  
-音声入力→LLMで感情分析＆要約。React+Rechartsで可視化ダッシュボードを提供。
+### 3. [感響AI™（Explainable AI） ](https://github.com/leadlea/demo)  
+感響AI（Explainable AI） を体験できるデモアプリケーションを提供しています。
+ユーザーからの質問に対して、バックエンドで XAI パイプライン（Step Functions）を通じて以下の 7 ステップを実行し、その 中間結果 と 最終回答 をリアルタイムにフロントエンドへ可視化します。
+
+### 4. [審監AI（AIOps Pipeline Demo）](https://github.com/leadlea/mlops)  
+生成 AI／伝統 ML を本番運用したあとに直面する
+「バイアス検証・ドリフト検知・ガードレール・LLM 評価・CI/CD」
+── 5 ステージを AWS マネージドサービス と Serverless で一気通貫に自動化するサンプルです。
 
 ---
 
