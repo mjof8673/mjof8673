@@ -49,8 +49,8 @@ RAG基盤で中国輸入代行のよくある問い合わせを即回答。Step 
 
 ## 📖 Blog & Talks
 
-- “生成AI時代のXAI入門” – Qiita: [記事リンク](https://qiita.com/your-article)  
-- “Serverlessで始めるRAG” – YouTube: [動画リンク](https://youtu.be/your-video)  
+- “AWS 生成 AI 事例のご紹介” – AWS公式ブログ: [記事リンク](https://aws.amazon.com/jp/blogs/news/genai-case-study-fast-trade/)  
+- “セミナーやデモの動画” – YouTube: [動画リンク](https://www.youtube.com/@genfukuhara)  
 
 ---
 
