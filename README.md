@@ -52,7 +52,8 @@ RAG基盤で中国輸入代行のよくある問い合わせを即回答。Step 
 
 ## 📖 Blog & Talks
 
-- “AWS 生成 AI 事例のご紹介” – AWS公式ブログ: [記事リンク](https://aws.amazon.com/jp/blogs/news/genai-case-study-fast-trade/)  
+- “AWS 生成 AI 事例のご紹介” – AWS公式ブログ: [記事リンク](https://aws.amazon.com/jp/blogs/news/genai-case-study-fast-trade/)
+- “ローカルLLM×SeleniumでLINE WORKS投稿を自動化” – Qiita: [記事リンク](https://qiita.com/mjof8673/items/f788b97064f27cddb991)
 - “セミナーやデモの動画” – YouTube: [動画リンク](https://www.youtube.com/@genfukuhara)  
 
 
