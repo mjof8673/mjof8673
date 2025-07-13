@@ -54,7 +54,8 @@ RAG基盤で中国輸入代行のよくある問い合わせを即回答。Step 
 
 ---
 
-## 📈 GitHub Stats
+## 📝 Top Languages
 
-![mjof8673's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjof8673&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjof8673&layout=compact)
+
 
