@@ -13,7 +13,7 @@
 - 🌱 Currently building **感響AI™** at [合同会社Lead lea](https://leadlea.com/)  
 - 💡 20+ years in NLP, Generative AI, XAI, Edge AI  
 - ⚙️ Tech stack: `Python` · `AWS Lambda` · `Bedrock` · `Step Functions` · `CDK`  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-linkedin) · [Twitter](https://twitter.com/your-twitter)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gen-fukuhara-b517a8263/) 
 
 ---
 
