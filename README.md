@@ -48,6 +48,8 @@ RAG基盤で中国輸入代行のよくある問い合わせを即回答。Step 
 ### 6. [ローカルでの LLM 活用と RPA による業務フロー自動化](https://github.com/leadlea/lineworks-slm)  
 ローカル環境で ELYZA-japanese-Llama-2-7b-instruct を用いてクレド(Credo)の「気づき」を自動生成し、Selenium による RPA 操作で LINE WORKS の指定トークルームへレポートを自動投稿する Python スクリプト。
 
+<a href="https://lin.ee/sChP36x"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
+
 ---
 
 ## 📖 Blog & Talks
