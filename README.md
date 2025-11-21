@@ -13,7 +13,9 @@
 - 🌱 Currently building **感響AI™** at [合同会社Lead lea](https://leadlea.com/)  
 - 💡 20+ years in NLP, Generative AI, XAI, Edge AI  
 - ⚙️ Tech stack: `Python` · `AWS Lambda` · `Bedrock` · `Step Functions` · `CDK`  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gen-fukuhara-b517a8263/) 
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gen-fukuhara-b517a8263/)  
+- 🧪 国立精神・神経医療研究センター（NCNP）との共同研究で、医療・メンタルヘルス領域のAI活用を推進  
+- 🏭 富士電機インバータ需要予測モデルの構築と、エージェンティックAIによる業務自動化プロジェクトをリード  
 
 ---
 
@@ -48,6 +50,15 @@ RAG基盤で中国輸入代行のよくある問い合わせを即回答。Step 
 ### 6. [ローカルでの LLM 活用と RPA による業務フロー自動化](https://github.com/leadlea/lineworks-slm)  
 ローカル環境で ELYZA-japanese-Llama-2-7b-instruct を用いてクレド(Credo)の「気づき」を自動生成し、Selenium による RPA 操作で LINE WORKS の指定トークルームへレポートを自動投稿する Python スクリプト。
 
+### 7. [ASD 言語コーパス×XAI研究（NCNP共同研究）](https://github.com/leadlea/asd)  
+ASD/TD 児の会話・音声データを用い、言語特徴の抽出と説明可能AI（XAI）による可視化を行う研究プロジェクト。
+
+### 8. [富士電機インバータ需要予測 PoC](https://github.com/leadlea/fujidenki)  
+世界各拠点の販売・受注・バックログデータを統合し、MinT階層予測や LightGBM によってインバータ需要の高精度予測を行うプロジェクト。
+
+### 9. [富士電機 エージェンティックAIによる業務自動化](https://github.com/leadlea/fe)  
+AWS Bedrock と Step Functions を組み合わせ、図面・Excel・PDF を横断して参照するエージェント型ワークフローで、設計・見積り業務の自動化を目指すプロジェクト。
+
 <a href="https://lin.ee/sChP36x"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
 
 ---
@@ -57,5 +68,3 @@ RAG基盤で中国輸入代行のよくある問い合わせを即回答。Step 
 - “AWS 生成 AI 事例のご紹介” – AWS公式ブログ: [記事リンク](https://aws.amazon.com/jp/blogs/news/genai-case-study-fast-trade/)
 - “ローカルLLM×SeleniumでLINE WORKS投稿を自動化” – Qiita: [記事リンク](https://qiita.com/mjof8673/items/f788b97064f27cddb991)
 - “セミナーやデモの動画” – YouTube: [動画リンク](https://www.youtube.com/@genfukuhara)  
-
-
